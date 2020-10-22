@@ -2,8 +2,7 @@ require 'pry'
 
 def hashketball
   game_hash = {
-    :home =>
-      {
+    :home => {
         :team_name => "Brooklyn Nets",
         :colors => ["black", "white"],
         :players => {
