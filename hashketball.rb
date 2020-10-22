@@ -110,7 +110,6 @@ def game_hash {
             steals: 7,
             blocks: 5, 
             slam dunks: 12
-        },
+        }
       }
-  }
 }
