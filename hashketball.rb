@@ -7,8 +7,7 @@ def hashketball
         :team_name => "Brooklyn Nets",
         :colors => ["black", "white"],
         :players => {
-          
-          :player_name => "Alan Anderson",
+          [:player_name => "Alan Anderson",
           :number => "0",
           :shoe => "16",
           :points => "22",
@@ -17,6 +16,9 @@ def hashketball
           :steals => "3",
           :blocks => "1",
           :slam_dunks => "1"]
+          [
+            ]
+          
         }
       },
     :away => 
