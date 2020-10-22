@@ -3,7 +3,7 @@ require 'pry'
 def game_hash
   {
     home: {
-        team name: "Brooklyn Nets",
+        team_name: "Brooklyn Nets",
         colors: ["black", "white"],
         players: {
           "Alan Anderson" => {
@@ -58,7 +58,7 @@ def game_hash
           }
       },
     away: {
-        team name: "Charlotte Hornets",
+        team_name: "Charlotte Hornets",
         colors: ["turqoise", "purple"],
         players: {
           "Jeff Adrian" => {
