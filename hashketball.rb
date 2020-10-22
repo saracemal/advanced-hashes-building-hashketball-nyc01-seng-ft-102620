@@ -110,6 +110,7 @@ def game_hash {
             blocks: 5, 
             slam dunks: 12
         }
-      }
-}
-binding.pry
+      } 
+    }
+  }
+end
