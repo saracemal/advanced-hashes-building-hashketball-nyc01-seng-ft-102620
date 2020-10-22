@@ -7,8 +7,7 @@ def hashketball
         :team_name => "Brooklyn Nets",
         :colors => ["black", "white"],
         :players =>
-      }
-      binding.pry
+      },
     :away => 
       {
         :team_name => "Charlotte Hornets",
