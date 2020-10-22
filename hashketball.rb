@@ -1,7 +1,7 @@
 require 'pry'
 
 def game_hash {
-    :home {
+    home: {
       binding.pry
         team name: "Brooklyn Nets",
         colors: ["black", "white"],
@@ -57,7 +57,7 @@ def game_hash {
             slam dunks: 1
           }
       },
-    :away {
+    away: {
         team name: "Charlotte Hornets",
         colors: ["turqoise", "purple"],
         players: {
